@@ -1,0 +1,31 @@
+{
+  "categories": [
+    {
+      "name": "homework",
+      "weight": 36.3867684478,
+      "count": 13,
+      "grades": [
+        100.0,
+        100.0,
+        100.0,
+        100.0,
+        100.0
+      ]
+    },
+    {
+      "name": "hour tests",
+      "weight": 50.8905852417,
+      "count": 4,
+      "grades": [
+        78.0
+      ]
+    },
+    {
+      "name": "final",
+      "weight": 12.7226463104,
+      "count": 1,
+      "grades": []
+    }
+  ],
+  "target": 90.0
+}
